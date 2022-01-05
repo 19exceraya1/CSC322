@@ -1,0 +1,1 @@
+textanalyzer.o: ../textanalyzer.c
